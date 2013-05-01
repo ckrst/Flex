@@ -12,5 +12,6 @@
     <string name="cancel">Cancelar</string>
     <string name="ok">Ok</string>
     <string name="dialogGasPriceTitle">Valor da Gasolina</string>
+    <string name="coma">,</string>
 
 </resources>
